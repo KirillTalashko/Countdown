@@ -1,0 +1,29 @@
+<resources>
+    <!-- Общие строки -->
+    <string name="app_name">Countdown</string>
+    <string name="start_button_label">Старт</string>
+    <string name="pause_button_label">Пауза</string>
+    <string name="reset_button_label">Сброс</string>
+    <string name="continue_button_label">Продолжить</string>
+    <string name="minutes_label">Минуты</string>
+    <string name="timer_running">Таймер работает</string>
+
+    <!-- Уведомления -->
+    <string name="notification_timer_running">Таймер активен</string>
+    <string name="notification_reboot_title">Таймер восстановлен</string>
+    <string name="timer_completed">Таймер завершен</string>
+    <string name="time_is_up">Время вышло!</string>
+    <string name="timer_channel_name">Таймер</string>
+    <string name="timer_channel_description">Уведомления о работе таймера</string>
+    <string name="completion_channel_name">Завершение таймера</string>
+    <string name="completion_channel_description">Уведомления о завершении таймера</string>
+
+    <!-- Ошибки -->
+    <string name="error_notification_failed">Ошибка показа уведомления: %s</string>
+    <string name="error_vibration">Ошибка вибрации</string>
+    <string name="error_service_start">Ошибка запуска сервиса</string>
+    <string name="error_general">Произошла ошибка</string>
+
+    <string name="notification_timer_restored">Таймер восстановлен</string>
+    <string name="notification_timer_restored_content">Таймер продолжает работу после перезагрузки</string>
+</resources>
